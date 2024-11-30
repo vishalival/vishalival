@@ -24,6 +24,7 @@
   ],
   "funFacts": ["Vegan since 2018", "Trying to run longer distances"]
 }
+```
 
 📌 **Pinned Repositories**:  
 Take a look at some of my favorite projects!  
