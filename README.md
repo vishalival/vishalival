@@ -3,10 +3,40 @@
 ✨ Welcome to my GitHub profile! ✨
 
 🌱 **About Me**:  
-- 🔭 I’m currently a **senior undergraduate student** at **UC Berkeley**, double-majoring in **Data Science** & **Environmental Economics + Policy**.  
-- 🌍 My research interests bridge **sustainability** and **data science**, with a current focus on **aviation** ✈️ and **economic policy analysis** 📊.  
-- 😄 Pronouns: **she/her/hers**  
-- ⚡ Fun fact: I've been a **vegan** 🌱 since 2018! 🤯  
+```json
+{
+  "name": "Vishali Vallioor",
+  "pronouns": "she/her/hers",
+  "education": {
+    "institution": "University of California, Berkeley",
+    "majors": ["Data Science", "Environmental Economics + Policy"],
+    "GPA": 3.7
+  },
+  "research": [
+    {
+      "focus": "Aviation safety and economic policy analysis",
+      "organization": "NASA via USRA",
+      "projects": ["ATCO-audio stress metrics", "SBIR Phase 2"]
+    },
+    {
+      "focus": "Coral Bleaching",
+      "area": "Great Barrier Reef Data Science Projects"
+    }
+  ],
+  "skills": {
+    "code": ["Python", "R", "SQL", "JavaScript"],
+    "tools": ["Pandas", "NumPy", "GeoPandas", "MongoDB"],
+    "methods": ["Causal Inference", "Kernel Density Estimation"]
+  },
+  "publications": [
+    {
+      "title": "Assessing Aviation Safety Metrics",
+      "venue": "AIAA Conference"
+    }
+  ],
+  "funFacts": ["Vegan since 2018", "Loves hiking and running", "Learning to run longer distances"]
+}
+```
 
 📌 **Pinned Repositories**:  
 Take a look at some of my favorite projects!  
