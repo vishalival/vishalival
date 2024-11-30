@@ -32,9 +32,7 @@ Take a look at some of my favorite projects!
 - 🌊 **Environmental & Population Economic Analysis**:  
   I have some more projects focusing on other population's economic analysis.
 
-# 💻 Tech Stack:
-
-### 🖥️ **Programming Languages:**
+**💻 Tech Stack:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
