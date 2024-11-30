@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Vishali Vallioor! 😊
 
-<!--
-**vishalival/vishalival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile! ✨
 
-Here are some ideas to get you started:
+🌱 **About Me**:  
+- 🔭 I’m currently a **senior undergraduate student** at **UC Berkeley**, double-majoring in **Data Science** & **Environmental Economics + Policy**.  
+- 🌍 My research interests bridge **sustainability** and **data science**, with a current focus on **aviation** ✈️ and **economic policy analysis** 📊.  
+- 😄 Pronouns: **she/her/hers**  
+- ⚡ Fun fact: I've been a **vegan** 🌱 since 2018! 🤯  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Pinned Repositories**:  
+Take a look at some of my favorite projects!  
+- 🥗 [Genetically-Modified Foods & Nutrition in Africa](https://github.com/vishalival/eep153-norman-borlaug):  
+  Hypothesizing the benefits of **GMOs** in African countries where populations aren't meeting minimal nutritional requirements.  
+- 🌊 **Environmental & Population Economic Analysis**:  
+  Dive into my other projects focusing on sustainability and economic policy!
+
+📫 **How to Reach Me**:  
+📧 Email me at **vishalivallioor [at] berkeley.edu**. I'd love to connect!  
+
+---
