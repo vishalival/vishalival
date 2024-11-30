@@ -31,6 +31,8 @@ Take a look at some of my favorite projects!
   Hypothesizing the benefits of **GMOs** in African countries where populations aren't meeting minimal nutritional requirements.  
 - 🌊 **Environmental & Population Economic Analysis**:  
   I have some more projects focusing on other population's economic analysis.
+- 👀 **More Cool Projects**:
+  You can check out more of my projects on my [website](https://vishalival.github.io/).
 
 **💻 Tech Stack:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
