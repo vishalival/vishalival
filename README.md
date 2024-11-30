@@ -30,9 +30,9 @@ Take a look at some of my favorite projects!
 - 🥗 [Genetically-Modified Foods & Nutrition in Africa](https://github.com/vishalival/eep153-norman-borlaug):  
   Hypothesizing the benefits of **GMOs** in African countries where populations aren't meeting minimal nutritional requirements.  
 - 🌊 **Environmental & Population Economic Analysis**:  
-  Dive into my other projects focusing on sustainability and economic policy!
+  I have some more projects focusing on other population's economic analysis.
 
 📫 **How to Reach Me**:  
-📧 Email me at **vishalivallioor [at] berkeley.edu**. I'd love to connect!  
+📧 Email me at **vishalivallioor [at] berkeley.edu**. 
 
 ---
