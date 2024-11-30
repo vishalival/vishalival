@@ -11,15 +11,14 @@
   "role": "Senior Undergraduate @ UC Berkeley",
   "majors": ["Data Science", "Environmental Economics + Policy"],
   "research": [
-    "Aviation Safety Metrics (NASA-USRA)",
-    "Coral Bleaching Analysis (Great Barrier Reef)"
+    "Aviation Safety Metrics (NASA Ames, USRA)",
+    "Economic Policy Analysis"
   ],
-  "skills": ["Python", "R", "SQL", "Pandas", "Causal Inference"],
   "publications": [
     {
-      "title": "Assessing Aviation Safety Metrics",
-      "venue": "AIAA Conference",
-      "year": 2024
+      "title": "Controller-Pilot Voice Communication and Intent Monitoring for Future Aviation Systems Safety",
+      "year": 2024,
+      "link": "https://doi.org/10.2514/6.2024-3942"
     }
   ],
   "funFacts": ["Vegan since 2018", "Trying to run longer distances"]
