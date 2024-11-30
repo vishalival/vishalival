@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vishali Vallioor! 😊
+# Hi there 👋 I'm Vishali Vallioor! 
 
 ✨ Welcome to my GitHub profile! ✨
 [![LinkedIn: Vishali Vallioor](https://img.shields.io/badge/-vishalivallioor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishali-vallioor/)](https://www.linkedin.com/in/vishali-vallioor/)
